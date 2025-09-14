@@ -1,11 +1,11 @@
 
 import './App.css'
-import CounterWithEffect from "./components/CounterWithEffect"
+import Card from "./components/Card/Card"
 function App() {
   return (
     <>
       <h1>Formulario de contador</h1>
-      <CounterWithEffect />
+      <Card />
     </>
   )  
 }
